@@ -15,6 +15,6 @@ I haven’t seen evidence that anyone accessed my Recent items. I just prefer no
 
 I have tested this only on my own Windows 11 system; I have not tested it on other Windows versions or configurations. It was built with help from AI and Inno Setup. Use it only if you understand and are comfortable with the changes it makes.
 
-To view the shell:recent folder, press Win+R, type shell:recent, and press Enter.
+To view the shell:recent folder, press Win+R, type shell:recent, and press Enter.  You will probably want to delete them all.  It goes way back a month or more.  But this isn't setup to delete them all.  You may be able to modify the settings to make that happen.  Have at it.
 
 SHA-256: C76B28C86FD386062C5285EAC84C62170FDADFBC0E3AD3BD08B6BF7287C669B2
